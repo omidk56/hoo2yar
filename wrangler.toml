@@ -1,0 +1,8 @@
+name = "hoo2yar"
+main = "src/worker.ts"
+compatibility_date = "2024-05-29"
+compatibility_flags = ["nodejs_compat"]
+
+kv_namespaces = [
+  { binding = "settings", id = "8fd21d80270f4bd5aeff251e114a1c62" }
+]
